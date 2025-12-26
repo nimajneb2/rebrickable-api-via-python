@@ -124,13 +124,13 @@ def menuinput(choice):
 
 def userinput():
     userinput = input(f'''
-Please choose an option
+Lego Part Menu:
 1. Enter an element id
 2. Enter a part_num
 3. Enter a part_num and color_id to see info about that specific part in that color
 4. Enter a part_num to see all available colors for that part
 5. Exit
-Your choice (1-4): ''')
+Please choose (1-5): ''')
     menuinput(userinput)
     #return userinput
 def waitmenu():
