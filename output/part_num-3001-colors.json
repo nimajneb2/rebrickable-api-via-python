@@ -1,0 +1,725 @@
+{
+    "count": 66,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "color_id": 0,
+            "color_name": "Black",
+            "num_sets": 1066,
+            "num_set_parts": 4599,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300126.jpg",
+            "elements": [
+                "300126"
+            ]
+        },
+        {
+            "color_id": 1,
+            "color_name": "Blue",
+            "num_sets": 653,
+            "num_set_parts": 4487,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300123.jpg",
+            "elements": [
+                "300123",
+                "300173"
+            ]
+        },
+        {
+            "color_id": 2,
+            "color_name": "Green",
+            "num_sets": 359,
+            "num_set_parts": 2058,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106356.jpg",
+            "elements": [
+                "300128",
+                "4106356"
+            ]
+        },
+        {
+            "color_id": 3,
+            "color_name": "Dark Turquoise",
+            "num_sets": 51,
+            "num_set_parts": 583,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143667.jpg",
+            "elements": [
+                "4143667",
+                "6249422"
+            ]
+        },
+        {
+            "color_id": 4,
+            "color_name": "Red",
+            "num_sets": 976,
+            "num_set_parts": 6275,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+            "elements": [
+                "300121"
+            ]
+        },
+        {
+            "color_id": 5,
+            "color_name": "Dark Pink",
+            "num_sets": 4,
+            "num_set_parts": 7,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4229355.jpg",
+            "elements": [
+                "4229355",
+                "4497167",
+                "6248847"
+            ]
+        },
+        {
+            "color_id": 6,
+            "color_name": "Brown",
+            "num_sets": 27,
+            "num_set_parts": 140,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4124052.jpg",
+            "elements": [
+                "300125",
+                "4112546",
+                "4124052"
+            ]
+        },
+        {
+            "color_id": 7,
+            "color_name": "Light Gray",
+            "num_sets": 132,
+            "num_set_parts": 440,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300102.jpg",
+            "elements": [
+                "300102",
+                "4116259"
+            ]
+        },
+        {
+            "color_id": 8,
+            "color_name": "Dark Gray",
+            "num_sets": 46,
+            "num_set_parts": 189,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113855.jpg",
+            "elements": [
+                "300127",
+                "4113855"
+            ]
+        },
+        {
+            "color_id": 10,
+            "color_name": "Bright Green",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/10/3001.png",
+            "elements": [
+                "4177580",
+                "6014481"
+            ]
+        },
+        {
+            "color_id": 13,
+            "color_name": "Pink",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4205032.jpg",
+            "elements": [
+                "4119698",
+                "4205032"
+            ]
+        },
+        {
+            "color_id": 14,
+            "color_name": "Yellow",
+            "num_sets": 716,
+            "num_set_parts": 5095,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300124.jpg",
+            "elements": [
+                "300124"
+            ]
+        },
+        {
+            "color_id": 15,
+            "color_name": "White",
+            "num_sets": 1049,
+            "num_set_parts": 5789,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300101.jpg",
+            "elements": [
+                "300101",
+                "6552094"
+            ]
+        },
+        {
+            "color_id": 18,
+            "color_name": "Light Yellow",
+            "num_sets": 2,
+            "num_set_parts": 7,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4173359.jpg",
+            "elements": [
+                "4119676",
+                "4173359"
+            ]
+        },
+        {
+            "color_id": 19,
+            "color_name": "Tan",
+            "num_sets": 336,
+            "num_set_parts": 1370,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4114319.jpg",
+            "elements": [
+                "300105",
+                "4114319"
+            ]
+        },
+        {
+            "color_id": 22,
+            "color_name": "Purple",
+            "num_sets": 7,
+            "num_set_parts": 22,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4165644.jpg",
+            "elements": [
+                "4133554",
+                "4165644"
+            ]
+        },
+        {
+            "color_id": 25,
+            "color_name": "Orange",
+            "num_sets": 190,
+            "num_set_parts": 1164,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4153827.jpg",
+            "elements": [
+                "4119641",
+                "4153827"
+            ]
+        },
+        {
+            "color_id": 27,
+            "color_name": "Lime",
+            "num_sets": 186,
+            "num_set_parts": 1089,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4165967.jpg",
+            "elements": [
+                "4122453",
+                "4165967"
+            ]
+        },
+        {
+            "color_id": 28,
+            "color_name": "Dark Tan",
+            "num_sets": 98,
+            "num_set_parts": 488,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4247145.jpg",
+            "elements": [
+                "4247145",
+                "4497066"
+            ]
+        },
+        {
+            "color_id": 29,
+            "color_name": "Bright Pink",
+            "num_sets": 89,
+            "num_set_parts": 837,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4227659.jpg",
+            "elements": [
+                "4227659",
+                "4497168",
+                "4520632"
+            ]
+        },
+        {
+            "color_id": 30,
+            "color_name": "Medium Lavender",
+            "num_sets": 47,
+            "num_set_parts": 144,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4655173.jpg",
+            "elements": [
+                "4655173",
+                "6013583"
+            ]
+        },
+        {
+            "color_id": 31,
+            "color_name": "Lavender",
+            "num_sets": 15,
+            "num_set_parts": 56,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6426723.jpg",
+            "elements": [
+                "6013584",
+                "6426723"
+            ]
+        },
+        {
+            "color_id": 68,
+            "color_name": "Very Light Orange",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/68/3001.png",
+            "elements": [
+                "4130328"
+            ]
+        },
+        {
+            "color_id": 69,
+            "color_name": "Light Purple",
+            "num_sets": 2,
+            "num_set_parts": 5,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4227660.jpg",
+            "elements": [
+                "4227660"
+            ]
+        },
+        {
+            "color_id": 70,
+            "color_name": "Reddish Brown",
+            "num_sets": 356,
+            "num_set_parts": 1309,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211201.jpg",
+            "elements": [
+                "4211201"
+            ]
+        },
+        {
+            "color_id": 71,
+            "color_name": "Light Bluish Gray",
+            "num_sets": 607,
+            "num_set_parts": 2963,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211385.jpg",
+            "elements": [
+                "4211385"
+            ]
+        },
+        {
+            "color_id": 72,
+            "color_name": "Dark Bluish Gray",
+            "num_sets": 479,
+            "num_set_parts": 2065,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211085.jpg",
+            "elements": [
+                "4211085"
+            ]
+        },
+        {
+            "color_id": 73,
+            "color_name": "Medium Blue",
+            "num_sets": 55,
+            "num_set_parts": 344,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4205058.jpg",
+            "elements": [
+                "4165450",
+                "4205058"
+            ]
+        },
+        {
+            "color_id": 78,
+            "color_name": "Light Nougat",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/78/3001.png",
+            "elements": [
+                "4496970"
+            ]
+        },
+        {
+            "color_id": 79,
+            "color_name": "Milky White",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/79/3001.png",
+            "elements": []
+        },
+        {
+            "color_id": 82,
+            "color_name": "Metallic Gold",
+            "num_sets": 2,
+            "num_set_parts": 16,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4281546.jpg",
+            "elements": [
+                "4281546",
+                "6051546"
+            ]
+        },
+        {
+            "color_id": 84,
+            "color_name": "Medium Nougat",
+            "num_sets": 82,
+            "num_set_parts": 315,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6135191.jpg",
+            "elements": [
+                "4645064",
+                "6135191"
+            ]
+        },
+        {
+            "color_id": 85,
+            "color_name": "Dark Purple",
+            "num_sets": 61,
+            "num_set_parts": 305,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4225243.jpg",
+            "elements": [
+                "4225243",
+                "4589602",
+                "4626935"
+            ]
+        },
+        {
+            "color_id": 86,
+            "color_name": "Light Brown",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/86/3001.png",
+            "elements": [
+                "4497000"
+            ]
+        },
+        {
+            "color_id": 92,
+            "color_name": "Nougat",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/92/3001.png",
+            "elements": [
+                "4166490",
+                "4292043"
+            ]
+        },
+        {
+            "color_id": 112,
+            "color_name": "Medium Bluish Violet",
+            "num_sets": 2,
+            "num_set_parts": 2,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4205060.jpg",
+            "elements": [
+                "4130309",
+                "4205060"
+            ]
+        },
+        {
+            "color_id": 125,
+            "color_name": "Light Orange",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/125/3001.png",
+            "elements": [
+                "4119664"
+            ]
+        },
+        {
+            "color_id": 135,
+            "color_name": "Pearl Light Gray",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/135/3001.png",
+            "elements": [
+                "4133532"
+            ]
+        },
+        {
+            "color_id": 158,
+            "color_name": "Yellowish Green",
+            "num_sets": 1,
+            "num_set_parts": 6,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6013585.jpg",
+            "elements": [
+                "6013585",
+                "6542059"
+            ]
+        },
+        {
+            "color_id": 179,
+            "color_name": "Flat Silver",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/179/3001.png",
+            "elements": [
+                "6014528"
+            ]
+        },
+        {
+            "color_id": 191,
+            "color_name": "Bright Light Orange",
+            "num_sets": 67,
+            "num_set_parts": 207,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4229356.jpg",
+            "elements": [
+                "4229356",
+                "4645053",
+                "6100027"
+            ]
+        },
+        {
+            "color_id": 212,
+            "color_name": "Bright Light Blue",
+            "num_sets": 4,
+            "num_set_parts": 9,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4216917.jpg",
+            "elements": [
+                "4216917",
+                "6014081",
+                "6014474",
+                "6555737"
+            ]
+        },
+        {
+            "color_id": 226,
+            "color_name": "Bright Light Yellow",
+            "num_sets": 13,
+            "num_set_parts": 35,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4250057.jpg",
+            "elements": [
+                "4250057",
+                "6015129",
+                "6117319",
+                "6373312"
+            ]
+        },
+        {
+            "color_id": 272,
+            "color_name": "Dark Blue",
+            "num_sets": 33,
+            "num_set_parts": 80,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4530029.jpg",
+            "elements": [
+                "4264581",
+                "4530029",
+                "6275133"
+            ]
+        },
+        {
+            "color_id": 288,
+            "color_name": "Dark Green",
+            "num_sets": 75,
+            "num_set_parts": 291,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4260493.jpg",
+            "elements": [
+                "4260493"
+            ]
+        },
+        {
+            "color_id": 308,
+            "color_name": "Dark Brown",
+            "num_sets": 3,
+            "num_set_parts": 11,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6353072.jpg",
+            "elements": [
+                "6353072"
+            ]
+        },
+        {
+            "color_id": 313,
+            "color_name": "Maersk Blue",
+            "num_sets": 1,
+            "num_set_parts": 4,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/313/3001.png",
+            "elements": []
+        },
+        {
+            "color_id": 320,
+            "color_name": "Dark Red",
+            "num_sets": 46,
+            "num_set_parts": 159,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4163803.jpg",
+            "elements": [
+                "4163803",
+                "4541369",
+                "6057588",
+                "6117418"
+            ]
+        },
+        {
+            "color_id": 321,
+            "color_name": "Dark Azure",
+            "num_sets": 56,
+            "num_set_parts": 162,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4655172.jpg",
+            "elements": [
+                "4655172",
+                "6013582"
+            ]
+        },
+        {
+            "color_id": 322,
+            "color_name": "Medium Azure",
+            "num_sets": 88,
+            "num_set_parts": 314,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4625629.jpg",
+            "elements": [
+                "4625629"
+            ]
+        },
+        {
+            "color_id": 323,
+            "color_name": "Light Aqua",
+            "num_sets": 18,
+            "num_set_parts": 88,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6146863.jpg",
+            "elements": [
+                "4616202",
+                "6146863",
+                "6426721"
+            ]
+        },
+        {
+            "color_id": 326,
+            "color_name": "Olive Green",
+            "num_sets": 3,
+            "num_set_parts": 10,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6016460.jpg",
+            "elements": [
+                "6016460"
+            ]
+        },
+        {
+            "color_id": 334,
+            "color_name": "Chrome Gold",
+            "num_sets": 3,
+            "num_set_parts": 4,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4528634.jpg",
+            "elements": [
+                "4176402",
+                "4528634"
+            ]
+        },
+        {
+            "color_id": 335,
+            "color_name": "Sand Red",
+            "num_sets": 1,
+            "num_set_parts": 50,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4166636.jpg",
+            "elements": [
+                "4166636"
+            ]
+        },
+        {
+            "color_id": 351,
+            "color_name": "Medium Dark Pink",
+            "num_sets": 2,
+            "num_set_parts": 2,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4205151.jpg",
+            "elements": [
+                "4119699",
+                "4205151"
+            ]
+        },
+        {
+            "color_id": 378,
+            "color_name": "Sand Green",
+            "num_sets": 37,
+            "num_set_parts": 662,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4155057.jpg",
+            "elements": [
+                "4155057",
+                "4517510",
+                "4623295",
+                "4642412",
+                "6075626"
+            ]
+        },
+        {
+            "color_id": 379,
+            "color_name": "Sand Blue",
+            "num_sets": 21,
+            "num_set_parts": 90,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4186359.jpg",
+            "elements": [
+                "4186359",
+                "6052830",
+                "6224211",
+                "6406007"
+            ]
+        },
+        {
+            "color_id": 383,
+            "color_name": "Chrome Silver",
+            "num_sets": 5,
+            "num_set_parts": 5,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/383/3001.png",
+            "elements": [
+                "4119442"
+            ]
+        },
+        {
+            "color_id": 462,
+            "color_name": "Medium Orange",
+            "num_sets": 1,
+            "num_set_parts": 2,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4205154.jpg",
+            "elements": [
+                "4130351",
+                "4205154"
+            ]
+        },
+        {
+            "color_id": 484,
+            "color_name": "Dark Orange",
+            "num_sets": 17,
+            "num_set_parts": 66,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4164438.jpg",
+            "elements": [
+                "4122462",
+                "4164438",
+                "4597488",
+                "6212082",
+                "6487946"
+            ]
+        },
+        {
+            "color_id": 1001,
+            "color_name": "Medium Violet",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4229354.jpg",
+            "elements": [
+                "4229354"
+            ]
+        },
+        {
+            "color_id": 1050,
+            "color_name": "Coral",
+            "num_sets": 16,
+            "num_set_parts": 77,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6422921.jpg",
+            "elements": [
+                "6422921"
+            ]
+        },
+        {
+            "color_id": 1051,
+            "color_name": "Pastel Blue",
+            "num_sets": 4,
+            "num_set_parts": 17,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4250614.jpg",
+            "elements": [
+                "300111",
+                "4112545",
+                "4162339",
+                "4250614",
+                "4585679"
+            ]
+        },
+        {
+            "color_id": 1062,
+            "color_name": "Vibrant Yellow",
+            "num_sets": 4,
+            "num_set_parts": 23,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6427901.jpg",
+            "elements": [
+                "6427901"
+            ]
+        },
+        {
+            "color_id": 1091,
+            "color_name": "Warm Yellowish Orange",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+            "elements": [
+                "4243872"
+            ]
+        },
+        {
+            "color_id": 1143,
+            "color_name": "Glitter Milky White",
+            "num_sets": 1,
+            "num_set_parts": 1,
+            "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/1143/3001-1143-22c483d5-a2ae-4c9a-91a1-0c7c9199af37.jpg",
+            "elements": []
+        }
+    ]
+}
