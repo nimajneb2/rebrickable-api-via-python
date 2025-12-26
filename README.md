@@ -1,6 +1,7 @@
 # Rebrickable API via Python
 Calls Rebrickable API and show various information. Written in Python.
 This script uses the Rebrickable API to look up info about Lego part numbers and element IDs. 
+It stores/caches the results in .JSON files in the same format as the API response.
 
 ---
 
@@ -12,11 +13,11 @@ color_id is the numeric designation for a color
 ---
 
 ## Examples
-If you don't have an API key you can use these examples:
+If you don't have an API key you can use these examples. I have included cached JSON files for the following examples:
 
-element_id = 4119698
-part_num = 3001
-color_id 10
++ element_id = 4119698
++ part_num = 3001
++ color_id 10
 
 
 ---
